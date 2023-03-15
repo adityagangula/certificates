@@ -1,1 +1,1 @@
-# certificates
+course and workshop certificates
